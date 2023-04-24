@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47874q72kbyq6vgad0xvrbdyqruci0pk4brvcdx70h&rid=giphy.gif&ct=g)]
+[![MasterHead](https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18140.jpg?w=900&t=st=1682329747~exp=1682330347~hmac=fbb4d8f60ec7af05e67cc0461d6bf1fc8ca4ed5326b989466e15380e2a2188f2)]
 <h1 align="center">Hi 👋, I'm Anuj Som</h1>
 <h3 align="center">A Passionate Data Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
